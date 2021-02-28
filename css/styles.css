@@ -1,7 +1,7 @@
 html, body {    
     padding: 0;
     margin: 0;
-    background-color: #484848;
+    background-color: #1D1C1C;
 }
 
 .nav-brand {
@@ -33,6 +33,11 @@ nav li a{
 nav li a :hover {
     color: #BABCB2;
 }
-.carousel-inner {
-    height: calc(100vh - 250px);
+.carousel-inner img {
+    height: 30%;
+}
+
+
+.cardContainer {
+    margin: 50px 0 0 0;
 }
